@@ -25,7 +25,7 @@ Analyzed Google Analytics ecommerce data using SQL and BigQuery to understand we
 **Key focus:** Traffic analysis, conversion analysis, revenue analysis, customer behavior
 
 ### Power BI Project: Finance Analysis Dashboard
-
+[View Project on GitHub](https://github.com/vananhmai-DA/Financial-performance-dashboard-PowerBI)
 Built an interactive financial dashboard to analyze revenue, expenses, profit margin, business line performance, and key cost drivers for business decision-making.
 
 **Tools:** Power BI, Power Query, DAX  
