@@ -18,6 +18,7 @@ I am building a portfolio in SQL, Power BI focusing on business performance, fin
 
 ### SQL Project: Ecommerce Traffic, Conversion and Revenue Analysis
 [View Project on GitHub](https://github.com/vananhmai-DA/E-Commerce--analysis)
+
 Analyzed Google Analytics ecommerce data using SQL and BigQuery to understand website traffic, bounce rate, conversion rate, product funnel, device revenue contribution, and cumulative revenue trends.
 
 **Tools:** SQL, BigQuery  
