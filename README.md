@@ -53,7 +53,7 @@ This background helps me understand the business meaning behind the numbers, not
 **Master of Science in Empirical Economics**  
 Osnabrück University, Germany
 
-**Bachelor of Science in Accounting**  
+**Bachelor of Accounting**  
 Thu Dau Mot University, Vietnam
 
 ## Contact
