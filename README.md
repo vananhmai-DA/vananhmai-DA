@@ -2,11 +2,9 @@
 
 ## About Me
 
-I am a Data Analyst candidate with a background in accounting and financial reporting, currently completing my Master of Science in Empirical Economics at Osnabrück University.
-
-My studies in statistics, econometrics, machine learning, and business analytics, combined with my accounting experience, help me approach data analysis with both technical and business perspectives.
-
-I am building a portfolio in SQL, Power BI focusing on business performance, financial analysis, customer behavior, and data storytelling.
+Finance-oriented Data Analyst candidate with a background in accounting and financial reporting, currently completing a Master of Science in Empirical Economics at Osnabrück University.
+Strong foundation in financial data, reporting, cost tracking, and business operations, combined with academic training in statistics, econometrics, machine learning, and business analytics.
+Currently building a SQL and Power BI portfolio focused on business performance, financial analysis, customer behavior, and data storytelling. Interested in opportunities in Data Analysis, Business Intelligence, Financial Analysis, and Business Analytics.
 
 ## Technical Skills
 
@@ -17,7 +15,7 @@ I am building a portfolio in SQL, Power BI focusing on business performance, fin
 ## Featured Projects
 
 ### SQL Project: Ecommerce Traffic, Conversion and Revenue Analysis
-[View Project on GitHub](https://github.com/vananhmai-DA/E-Commerce--analysis)
+[View Project on GitHub](https://github.com/vananhmai-DA/E-commerce-Website-Performance-Purchase-Behavior-Analysis-SQL-BigQuery)
 
 Analyzed Google Analytics ecommerce data using SQL and BigQuery to understand website traffic, bounce rate, conversion rate, product funnel, device revenue contribution, and cumulative revenue trends.
 
