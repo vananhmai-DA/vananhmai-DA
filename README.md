@@ -27,6 +27,17 @@ Analyzed Google Analytics ecommerce data using SQL and BigQuery to explore websi
 
 ---
 
+### [Power BI Project: Financial Statement Analysis Dashboard](YOUR_GITHUB_LINK_HERE)
+
+Built an interactive financial statement dashboard to analyze revenue, expenses, profitability, balance sheet health, cash flow, working capital, and AR/AP risk for a German market case study.
+
+The dashboard helps management evaluate whether revenue growth is translating into profit, cash flow, and a healthy financial position.
+
+**Tools:** Power BI, Power Query, DAX  
+**Key focus:** Financial statement analysis, profitability, cost control, cash flow, working capital, business decision support
+
+---
+
 ### [Power BI Project: Finance Analysis Dashboard](https://github.com/vananhmai-DA/Financial-performance-dashboard-PowerBI)
 
 Built an interactive financial dashboard to track revenue, expenses, gross profit, net profit, profit margin, business line performance, and key cost drivers.
