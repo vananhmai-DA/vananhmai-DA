@@ -28,24 +28,6 @@ Analyzed Google Analytics ecommerce data using SQL and BigQuery to explore websi
 
 ---
 
-### [Machine Learning Project: Ecommerce Churn Prediction Pipeline](https://github.com/vananhmai-DA/Ecommerce_Churn_Prediction_Machine_Learning_Pipeline)
-
-Built an end-to-end machine learning pipeline to predict ecommerce customer churn, identify churn drivers, and segment high-risk customers for retention actions.
-
-**Tools:** Python, PostgreSQL, dbt, SQL, scikit-learn  
-**Key focus:** Churn prediction, classification, feature engineering, model evaluation, customer segmentation, retention analytics
-
----
-
-### [Machine Learning Project: SKU Sales Forecasting Pipeline](https://github.com/vananhmai-DA/SKU_Sales_Forecasting_MachineLearning_Pipeline)
-
-Built a machine learning pipeline to forecast SKU-level sales demand and compare actual vs predicted sales for inventory planning.
-
-**Tools:** Python, Pandas, scikit-learn, LightGBM, SHAP  
-**Key focus:** Sales forecasting, demand prediction, regression modeling, model evaluation, explainable AI, inventory planning
-
----
-
 ### [Power BI Project: Financial Statement Analysis Dashboard](https://github.com/vananhmai-DA/Financial-Statement-Analysis-Dashboard-Germany_23-25)
 
 Built an interactive financial statement dashboard to analyze revenue, expenses, profitability, balance sheet health, cash flow, working capital, and AR/AP risk for a German market case study.
@@ -65,6 +47,25 @@ Built an interactive financial dashboard to track revenue, expenses, gross profi
 **Key focus:** Financial performance, cost structure, profit analysis, business decision support
 
 ---
+
+### [Machine Learning Project: Ecommerce Churn Prediction Pipeline](https://github.com/vananhmai-DA/Ecommerce_Churn_Prediction_Machine_Learning_Pipeline)
+
+Built an end-to-end machine learning pipeline to predict ecommerce customer churn, identify churn drivers, and segment high-risk customers for retention actions.
+
+**Tools:** Python, PostgreSQL, dbt, SQL, scikit-learn  
+**Key focus:** Churn prediction, classification, feature engineering, model evaluation, customer segmentation, retention analytics
+
+---
+
+### [Machine Learning Project: SKU Sales Forecasting Pipeline](https://github.com/vananhmai-DA/SKU_Sales_Forecasting_MachineLearning_Pipeline)
+
+Built a machine learning pipeline to forecast SKU-level sales demand and compare actual vs predicted sales for inventory planning.
+
+**Tools:** Python, Pandas, scikit-learn, LightGBM, SHAP  
+**Key focus:** Sales forecasting, demand prediction, regression modeling, model evaluation, explainable AI, inventory planning
+
+---
+
 
 ### [Python Project: VietDist Sales & Distribution Analytics Platform](https://github.com/vananhmai-DA/vietdist_analytics)
 
