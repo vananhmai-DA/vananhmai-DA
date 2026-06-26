@@ -2,17 +2,18 @@
 
 ## 👋 About Me
 
-Aspiring Data Analyst with a background in Accounting and Empirical Economics, skilled in SQL, BigQuery, Power BI, Python, and Excel.
+Aspiring Data Analyst with a background in Accounting and Empirical Economics, skilled in SQL, BigQuery, Power BI, Python, Excel, and Machine Learning for business analytics.
 
-Experienced in accounting operations, financial reporting, data cleaning, KPI analysis, dashboard design, and turning structured data into business insights.
+Experienced in accounting operations, financial reporting, data cleaning, KPI analysis, dashboard design, machine learning pipelines, and turning structured data into business insights.
 
-Focused on business performance, financial analysis, customer behavior, and data storytelling.
+Focused on business performance, financial analysis, customer behavior, sales forecasting, and data storytelling.
 
 ## 🛠️ Technical Skills
 
 - **SQL & BigQuery:** Querying, filtering, joins, aggregation, data manipulation
 - **Power BI:** Power Query, DAX, data modeling, dashboard design
 - **Python:** Data cleaning, data wrangling, analytics pipeline
+- **Machine Learning:** Regression, classification, model evaluation, feature engineering, explainability, business interpretation
 - **Excel:** Data cleaning, reporting, KPI tracking
 - **Analytics:** Business analysis, financial analysis, problem solving, data storytelling
 
@@ -24,6 +25,24 @@ Analyzed Google Analytics ecommerce data using SQL and BigQuery to explore websi
 
 **Tools:** SQL, BigQuery  
 **Key focus:** Traffic analysis, conversion analysis, revenue analysis, customer behavior
+
+---
+
+### [Machine Learning Project: Ecommerce Churn Prediction Pipeline](https://github.com/vananhmai-DA/Ecommerce_Churn_Prediction_Machine_Learning_Pipeline)
+
+Built an end-to-end machine learning pipeline to predict ecommerce customer churn, identify churn drivers, and segment high-risk customers for retention actions.
+
+**Tools:** Python, PostgreSQL, dbt, SQL, scikit-learn  
+**Key focus:** Churn prediction, classification, feature engineering, model evaluation, customer segmentation, retention analytics
+
+---
+
+### [Machine Learning Project: SKU Sales Forecasting Pipeline](https://github.com/vananhmai-DA/SKU_Sales_Forecasting_MachineLearning_Pipeline)
+
+Built a machine learning pipeline to forecast SKU-level sales demand and compare actual vs predicted sales for inventory planning.
+
+**Tools:** Python, Pandas, scikit-learn, LightGBM, SHAP  
+**Key focus:** Sales forecasting, demand prediction, regression modeling, model evaluation, explainable AI, inventory planning
 
 ---
 
