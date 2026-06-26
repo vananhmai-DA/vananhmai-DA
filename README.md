@@ -48,6 +48,18 @@ Built an interactive financial dashboard to track revenue, expenses, gross profi
 
 ---
 
+
+### [Python Project: VietDist Sales & Distribution Analytics Platform](https://github.com/vananhmai-DA/vietdist_analytics)
+
+Built an end-to-end analytics pipeline using Python, PostgreSQL, and SQL to analyze sales and distributor performance data.
+
+Created a Power BI dashboard to track target achievement, revenue gaps, regional performance, and distributor fulfillment.
+
+**Tools:** Python, PostgreSQL, SQL, Power BI  
+**Key focus:** Sales analytics, distributor performance, target tracking, business operations
+
+---
+
 ### [Machine Learning Project: Ecommerce Churn Prediction Pipeline](https://github.com/vananhmai-DA/Ecommerce_Churn_Prediction_Machine_Learning_Pipeline)
 
 Built an end-to-end machine learning pipeline to predict ecommerce customer churn, identify churn drivers, and segment high-risk customers for retention actions.
@@ -64,17 +76,6 @@ Built a machine learning pipeline to forecast SKU-level sales demand and compare
 **Tools:** Python, Pandas, scikit-learn, LightGBM, SHAP  
 **Key focus:** Sales forecasting, demand prediction, regression modeling, model evaluation, explainable AI, inventory planning
 
----
-
-
-### [Python Project: VietDist Sales & Distribution Analytics Platform](https://github.com/vananhmai-DA/vietdist_analytics)
-
-Built an end-to-end analytics pipeline using Python, PostgreSQL, and SQL to analyze sales and distributor performance data.
-
-Created a Power BI dashboard to track target achievement, revenue gaps, regional performance, and distributor fulfillment.
-
-**Tools:** Python, PostgreSQL, SQL, Power BI  
-**Key focus:** Sales analytics, distributor performance, target tracking, business operations
 
 ## 🎓 Education
 
